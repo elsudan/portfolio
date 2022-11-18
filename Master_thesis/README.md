@@ -1,7 +1,7 @@
 # Secular Trends in Real Rates
 This is the Master Thesis of Elena Sudan as part of the Master of Science in Economics of the University of Lausanne.
 The project was supervised by [Prof. Jean-Paul Renne](https://sites.google.com/site/jeanpaulrenne/home?pli=1).
-The code of this Thesis was initially written in R (2021) and then later rewritten using Python (2022).
+The code of this thesis was initially written in R (2021) and then later rewritten using Python (2022).
 
 ## Abstract
 _In this paper, we investigate the joint dynamics of the long-run components of interest rates and inflation for eight advanced economies. The approach is broadly based on Del Negro et al. (2018). The Kalman filter is used to operate the trend-cycle decompositions. Our findings are as follows. First, the co-movement of real interest rates among advanced economies can be explained by the existence of a world real interest rate. Second, the trends in real interest rates of advanced economies have been converging to the world trend since the 1980s. Third, the trend in the world real interest rate decreased by 150 basis points since the 1980s. Fourth, further analysis on these results suggest that low- frequency movements of the world real interest rate can be explained by global changes in technological progress and growth expectations, as well as shifts in the saving and investment schedules. We estimate that global demographics development and changes in the level of public investment in advanced economies can account for 85 basis points of the fall in the world real interest rate of the past decades._
