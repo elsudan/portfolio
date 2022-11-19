@@ -1,0 +1,1 @@
+this folder contains the assignments of the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) in collaboration between DeepLearning.AI and Stanford Online, by Dr. Andrew Ng.
